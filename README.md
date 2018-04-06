@@ -1,5 +1,5 @@
 # TP0: C++
-Cálculo de la DFT de un vector de números complejos.
+Cálculo de la DFT de un vector de números complejos. qqqqq
 
 Cosas por hacer: \
 Informe \
